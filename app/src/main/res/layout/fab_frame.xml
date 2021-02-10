@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.edu.ifsul.gabriel.login.UI.Home">
+
+    <io.github.kobakei.materialfabspeeddial.FabSpeedDial
+        android:id="@+id/fab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        app:fab_menu="@menu/fab"
+
+        app:fab_fabBackgroundColor="@color/procedimento"
+        app:fab_fabDrawableTint="#FFF"
+        app:fab_fabRippleColor="#FFF"
+
+        app:fab_miniFabDrawableTint="@android:color/white"
+        app:fab_miniFabRippleColor="@android:color/white"
+        app:fab_miniFabBackgroundColor="@color/colorPrimaryDark"
+
+        app:fab_miniFabTextColor="@android:color/white"
+        app:fab_miniFabTextBackground="@color/colorPrimaryDark"
+
+        app:fab_extraMargin="-8dp"
+
+        app:fab_useTouchGuard="true"
+        app:fab_touchGuardColor="#80000000"
+        app:fab_useRevealEffect="true"
+        app:fab_showHorizontallyOnLandscape="true"/>
+
+</FrameLayout>

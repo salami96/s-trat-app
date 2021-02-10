@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42a5f5</color>
+    <color name="colorPrimaryDark">#2672af</color>
+    <color name="colorAccent">#42a5f5</color>
+    <color name="bg">#f1f5f8</color>
+    <color name="medicamento">#e8876f</color>
+    <color name="procedimento">#42a5f5</color>
+    <color name="medicao">#8bc34a</color>
+</resources>

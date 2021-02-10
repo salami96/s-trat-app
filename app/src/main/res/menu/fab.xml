@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/one"
+        android:icon="@drawable/plus"
+        android:orderInCategory="1"
+        android:title="@string/lembrete" />
+    <item
+        android:id="@+id/two"
+        android:title="@string/medicao"
+        android:icon="@drawable/pulse"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/three"
+        android:title="@string/sintoma"
+        android:icon="@drawable/sympton"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/four"
+        android:title="@string/historico"
+        android:icon="@drawable/share"
+        android:orderInCategory="4" />
+</menu>

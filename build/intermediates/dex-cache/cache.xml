@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b86addd688e0456486a2cebc229dea2feababaf3">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a38f29be36ec29593d7fbdc04525beaef5db5a1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/336eecf831cc85972d7bdaea82115477b5b8a0dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_54853a55e9748f017774314c3588fe413278f7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/bb23befc764da8a1750911cc1060ab019ec5d8d8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_15bba96f3c80fd875ca72969b137b76a86859c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/b6c11ff1c60d900d9dd9622951301704561f1c41/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_7ac135fba70921a2c6e8a8eacb301290fc439c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/a5d900ddb657f9032e18f466eb8b5d8c03e4e20a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_bd7b4eec92f3dc8b9b28a44169e006686d42af8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/ac38121a6ad39375779721f73fbf142fcd433867/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_426b0973df4b128223ef3130cabb120d1ec61fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/a772783be74083471861987f4cdcfe36ec1587ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_499655c4a3d2a5156a79f83c15d32be6947de4e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/de5d40ca019631a51ae4419b22af6400d51413e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_14dae66234f52f147740c7ea9324e1e112716304.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5812057effb8e6e8e251dea5d27bde3cacebf0f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/08992b21afb37311cc5f42fd778664f764c96a10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_7aba87b5cb73cee300d0a84f7156c0b16eb018fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/3b087924c801b0858ffb31b183517bd3fd190b1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_b0af7aa5ce95d1e26602928d10762a530927d556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/fae16190074a8ea23f156ff5a9f0a1c1fa33334a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_9db77c65523d4b07524128f1ae18c19edfdc76c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.0-alpha7_2cfb5049d6b55ca6becf59a794c78459872eaee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/common-1.0.3_03f0145d96b9e6f807365e7d3c8bc54b415f0d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/8373b2ad957b0ecfc83a22b20423172f8edb2e9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_40dcb1786723b13909d6d943babff3481fb55475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/support-annotations-27.0.2_8887676b89c944b2a4caff96a4a888af82acfe2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/92663c0c1cf3aba3ed7a05cb60ff72857e3387e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_f0b34da09d6ead57c0d97fe46912c2c3abb4e0ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/d47cae940a9ec43d28385e12669911c3a975e2b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4b121e9b74ad013821ed4d43ee3a7952856fa57">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_00755a5f43975eb5eec934a11d305fced5b12ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/6387e22f8a10e7632674c1a74c2c452ec8b84234/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_a7dd93d12e3cb8863794f3a65992f2af64fd1a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/965de14826d5721f7b5a548e10fd92780eaf8fa7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_f2692e0edb223e07d1118c91d67c94fec18cccb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/common-1.0.0_faa4b448159885a491bcca3f86e9864b445dd5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/133b371260078683af233e8142c4812d622c4158/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_e219d0eeb6e247dfe295acb6b16499847153f0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gabriel/.android/build-cache/9852773bb5d01f07180bd506cf90ec2d23963550/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/gabriel/AndroidStudioProjects/Login/app/build/intermediates/pre-dexed/release/classes_2d515653fcd47f7e7ef5f48ecfa668f18e86f8a5.jar" />
+    </item>
+
+</items>

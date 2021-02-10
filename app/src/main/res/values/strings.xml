@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">S-trat</string>
+    <string name="title_activity_home">Tela Inicial</string>
+    <string name="title_activity_medicamento">Medicamento</string>
+
+    <!--LOGIN-->
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="register"><u>REGISTRE-SE</u></string>
+    <string name="entrar">ENTRAR</string>
+    <string name="logado">Logado com sucesso</string>
+    <string name="falha">Falha ao logar</string>
+
+    <!--REGISTRO-->
+    <string name="informe">Informe seus Dados</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="telefone">Telefone</string>
+    <string name="li">Li e aceito os </string>
+    <string name="termos">Termos de Uso</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="registrar">Registrar</string>
+    <string name="vNome">Preencha o campo nome!</string>
+    <string name="vSobrenome">Preencha o campo sobrenome!</string>
+    <string name="vTelefone">Preencha o campo telefone!</string>
+    <string name="vSenha">Preencha o campo senha!</string>
+    <string name="vTermos">É obrigatório ler os termos de uso!</string>
+    <string name="vEmail">E-mail inválido</string>
+    <string name="msgPaciente">Paciente cadastrado com sucesso!</string>
+
+    <!--FAB-->
+    <string name="lembrete">Adicionar Lembrete</string>
+    <string name="medicao">Informar Medição</string>
+    <string name="sintoma">Informar Sintoma</string>
+    <string name="historico">Compartilhar Histórico</string>
+    <string name="shareText">Para ver meu histórico no S-trat, acesse: www.s-trat.tk/pac/historico/
+    </string>
+    <string name="shareVia">Compartilhar via</string>
+
+    <!--INFO-->
+    <string name="informacoes">Informações</string>
+    <string name="fechar">Fechar</string>
+    <string name="nenhumaObs">Nenhuma Obs.</string>
+    <string name="semRegistros">Não há registros próximos, acrescente manualmente ou peça à um profissional de saúde responsável!</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="paciente">Paciente: </string>
+    <string name="horaInfo">Hora: </string>
+    <string name="dataInfo">Data: </string>
+    <string name="realizado">Realizado: </string>
+    <string name="indicado">Indicado por: </string>
+    <string name="importante">Importante: Sim</string>
+    <string name="medicaoInfo">Medição de: </string>
+    <string name="medicamentoInfo">Medicamento: </string>
+    <string name="procedInfo">Procedimento: </string>
+    <string name="medicaoLabel">medicao</string>
+
+    <!--ALERT LEMBRETE-->
+    <string name="adiar">Adiar</string>
+    <string name="adiado">Adiado por 15 minutos!</string>
+    <string name="fiz">Fiz Agora</string>
+    <string name="jaFiz">Fiz</string>
+    <string name="nFiz">Não fiz</string>
+    <string name="succcess">Procedimento realizado com sucesso!</string>
+    <string name="hasError">Houve um problema, tente novamente mais tarde!</string>
+
+    <!--ALERT MEDIÇÃO-->
+    <string name="alertNovaMedicao">Informar Medição</string>
+    <string name="obs">Observações</string>
+    <string name="resultado">Resultado</string>
+    <string name="erroMedicao">Informe o resultado!</string>
+    <string name="ocorreu">Ocorreu o seguinte erro: </string>
+    <string name="tentar">Tentar Novamente</string>
+    <string name="selecione">Selecione a Medição</string>
+    <string name="medicaoDe">Medição de </string>
+    <string name="baseUrl">****</string>
+
+    <!--ALERT SINTOMA-->
+    <string name="alertSintoma">Informar Sintoma</string>
+    <string name="descricao">Descrição do sintoma</string>
+    <string name="dor">Nível de dor: </string>
+    <string name="humor">Nível de humor: </string>
+    <string name="temperatura">Temperatura: </string>
+    <string name="cancelar">Cancelar</string>
+    <string name="erroSintoma">Informe pelo menos a descrição do sintoma</string>
+
+    <!--ADD LEMBRETES-->
+    <string name="tipo_de_lembrete">Escolha o tipo de Lembrete</string>
+    <string name="addMedicamento">Criar Lembrete de Medicamento</string>
+    <string name="addProcedimento">Criar Lembrete de Procedimento</string>
+    <string name="addMedicao">Criar Lembrete de Medição</string>
+    
+    <!--ADD MEDICAMENTO-->
+    <string name="hintMedicamento">Digite o nome do medicamento…</string>
+    <string name="dose">Informe dose e/ou observações</string>
+    <string name="data">Data Inicial</string>
+    <string name="hora">Hora Inicial</string>
+    <string name="vezes">Vezes por Dia</string>
+    <string name="trat">Tratamento é Contínuo?  </string>
+    <string name="duracao">Duração</string>
+    <string name="spinner_title">Informe a Duração</string>
+    <string-array name="spinner_itens">
+        <item>Dias</item>
+        <item>Semanas</item>
+        <item>Mêses</item>
+        <item>Anos</item>
+    </string-array>
+    <string name="vMedicamento">Preencha o campo Nome do Medicamento!</string>
+    <string name="vVezes">Preencha o campo vezes!</string>
+    <string name="vData">Preencha o campo data!</string>
+    <string name="vHora">Preencha o campo hora!</string>
+    <string name="vDuracao">Preencha o campo Duração!</string>
+    <string name="eMedicamento">Preencha corretamente o campo Nome do Medicamento!</string>
+    <string name="eVezes">Preencha corretamente o campo Vezes: Use 1,2,3,4 ou 6!</string>
+    <string name="novoMed">Criar novo lembrete de medicamento</string>
+    <string name="telaInicial">Voltar à tela inicial</string>
+    
+    <!--ADD PROCED-->
+    <string name="hintProced">Digite uma descrição para o procedimento…</string>
+    <string name="dicas">Informe dicas e/ou observações</string>
+    <string name="vProced">Preencha o campo Descrição do Procedimento!</string>
+    <string name="novoProced">Criar novo lembrete de procedimento</string>
+    
+    <!--ADD MEDIÇÂO-->
+    <string name="novoMedicao">Cadastrar novo lembrete de medição</string>
+
+</resources>
